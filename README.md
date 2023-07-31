@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShahiShahash
-- 👀 I’m interested in web development.
+- 👀 I’m interested in BackEnd Web development.
 - 🌱 I’m currently learning JavaScript and MySQL and planning to learn node js and express in near future.
 - 📫 How to reach me - I have already mentioned my linkedin profile and facebook profile in my github profile.
 
